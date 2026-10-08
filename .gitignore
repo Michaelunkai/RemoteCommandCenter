@@ -1,0 +1,7 @@
+__pycache__/
+.pytest_cache/
+.serena/
+node_modules/
+dist/
+build/
+*.log
